@@ -18,7 +18,6 @@ The system detects and tracks players, referees, goalkeepers, and the ball from 
 - Ball Tracking
 - Ball Possession Detection
 - Team Classification
-- Goalkeeper Team Assignment
 - Camera Motion Compensation
 - Perspective Transformation
 - Player Speed Estimation
