@@ -21,7 +21,6 @@ The system detects and tracks players, referees, goalkeepers, and the ball from 
 - Camera Motion Compensation
 - Perspective Transformation
 - Player Speed Estimation
-- Distance Covered
 - Ball Control Statistics
 
 The project is designed to work directly on football match videos and generate an annotated analytics video.
