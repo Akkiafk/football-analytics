@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+ml_env/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Generated outputs
+output_videos/
+
+# Cached files
+stubs/*.pkl
+
+# Input videos
+input_videos/*.mp4
+
+# YOLO runs
+runs/
+
+# Model weights
+*.pt
